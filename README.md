@@ -1,6 +1,6 @@
 ## Operating System InterviewQuestions
 
-## Gfg Last Minutes Notes :
+## Gfg Last Minutes Notes:
 
 https://www.geeksforgeeks.org/last-minute-notes-operating-systems/
 
