@@ -1,5 +1,8 @@
 ## Operating System InterviewQuestions
 
+## Microsoft SDE sheet : 
+
+https://docs.google.com/document/d/1uY8U4JFndDC0gDxqrGxQSL5a8EViVy5eKBA8jTQYyNs/edit?usp=sharing
 ## Gfg Last Minutes Notes:
 
 https://www.geeksforgeeks.org/last-minute-notes-operating-systems/
