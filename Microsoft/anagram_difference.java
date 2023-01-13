@@ -1,4 +1,4 @@
-import java.util.*;
+package Microsoft;
 
 public class anagram_difference {
     public static int getMinimumAnagramDifference(String str1, String str2) {
