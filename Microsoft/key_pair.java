@@ -1,3 +1,4 @@
+import java.util.*;
 public class key_pair {
     
     public int[] twoSum(int nums[], int target) {
