@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 // memoized  - 3D DP PROBLEM
 
-// AT MOST K TRANSACTIONS
+// AT MOST 2 TRANSACTIONS
 /**
  * stocks_part3
  */
